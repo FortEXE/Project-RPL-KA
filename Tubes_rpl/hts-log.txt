@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Apr 2018 13:16:38 at https://kai.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kai.id/ -O1 "X:\kuliah\Semester 4\RPL\tubes_rpl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:16:41	Warning: 	File not parsed, looks like binary: https://kai.id/robots.txt
+13:17:17	Error: 	"Not Found" (404) at link https://kai.id/static/favicon/mstile-144x144.png (from https://kai.id/)
+13:18:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kai.id/corporate/page/31 (from https://kai.id/corporate/passenger_services/0)
+13:33:35	Error: 	"Not Found" (404) at link https://kai.id/account/index.html (from https://kai.id/account/forgotten_password)
+13:34:10	Warning: 	Found for https://kai.id/corporate/page/31
+13:34:10	Warning: 	File has moved from https://kai.id/corporate/page/31 to https://kai.id/corporate/passenger_services/
+13:35:30	Warning: 	Retry after error -4 (Incorrect length (8673101 Bytes, 14278076 expected)) at link https://kai.id/static/annual-report/annual_report_2012.pdf (from https://kai.id/information/document)
+13:35:30	Warning: 	Retry after error -4 (Incorrect length (17707172 Bytes, 20538010 expected)) at link https://kai.id/static/majalah-rel/majalah_rel_edisi_2_2017.pdf (from https://kai.id/information/document)
+13:35:30	Warning: 	Retry after error -4 (Incorrect length (13816143 Bytes, 20462575 expected)) at link https://kai.id/static/majalah-rel/majalah_rel_edisi_1_2017.pdf (from https://kai.id/information/document)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/custom-header-bg.jpg (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/video-overlay.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/map.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/map-2.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept-icons.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept-item.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/map-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept-item-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/home-concept-icons-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/arrows-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/history-thumb-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme_iyp9no.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/patterns/stripes.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/video-overlay-dark.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/custom-underline.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/patterns/worn_dots.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/patterns/az_subtle.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/arrows.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/flags.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:37	Error: 	"Unauthorized" (401) at link https://res.cloudinary.com/ddtpxyvco/raw/upload/img/history-thumb.png (from https://res.cloudinary.com/ddtpxyvco/raw/upload/v1490459253/theme-elements_fgst3r.css)
+13:35:40	Error: 	"Not Found" (404) at link https://kai.id/media/content/profil_kereta_cepat.pdf (from https://kai.id/corporate/organization/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 10 seconds : 448 links scanned, 418 files written (439415512 bytes overall) [421629920 bytes received at 366634 bytes/sec], 21755624 bytes transferred using HTTP compression in 163 files, ratio 16%, 8.8 requests per connection
+(24 errors, 7 warnings, 0 messages)

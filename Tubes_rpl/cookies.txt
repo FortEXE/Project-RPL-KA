@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kai.id	TRUE	/	FALSE	1999999999	TS01029465_26	019247a6c8da19dc344dedf09c09628e20a9fbae53b72b92ed82323165693ab0b856a4b7b0ab1ff0f3bb645ed6a1a39d8870c0a6d218ca789393aed1e53d73c443c1b6f6f6
+kai.id	TRUE	/	FALSE	1999999999	ci_session	p68sh3ojljni1p3d86girqe4u2k85u0t
+kai.id	TRUE	/	FALSE	1999999999	csrf_cookie_i_can_eat_cookies	6cbbd281e23fdbf8d89e2a60bcc599bc
+.kai.id	TRUE	/	FALSE	1999999999	TS01029465	015e85d9225e0005731328d59d4c88523384831bef42d8d0fcc88beedbccd2a2d484118b71bed673356e29972f0bf5db1461a1f1e3d1df74b082e742dd03513df364a1522b
+
